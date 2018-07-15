@@ -1,5 +1,7 @@
 ## ML-On-Payments
 
+[![HitCount](http://hits.dwyl.io/sanchyy/https://github.com/sanchyy/ML-On-Payments.svg)](http://hits.dwyl.io/sanchyy/https://github.com/sanchyy/ML-On-Payments)
+
 Project done with @arnaucinca on the JEDI's Machine Learning course.
 We predict if a person will pay on time next his next charge.
 
